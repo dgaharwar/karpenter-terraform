@@ -13,7 +13,7 @@ variable "cluster_name" {
 
 variable "cluster_version" {
   type    = string
-  default = "1.21"
+  default = "1.27"
 }
 
 variable "cidr" {
